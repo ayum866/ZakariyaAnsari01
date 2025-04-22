@@ -41,6 +41,15 @@
         box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
         transition: transform 0.3s ease, box-shadow 0.3s ease;
       }
+       #img1 {
+        width: 100%;
+        max-width: 320px;
+        border-radius: 16px;
+        margin: 15px auto;
+        display: block;
+        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
 
   img:hover {
         transform: scale(1.1) rotate(1deg);
@@ -114,7 +123,7 @@
   </head>
   <body>
     <h1>Zakariya Ansari 01</h1>
-    <img src="https://yt3.googleusercontent.com/lJ4KXi9Wt8DChJ763VSS-N-cgn_BhjQqSCXaeLJh2LqgGct3xmsfJdLUr0sN63WYMHetyakY6CA=s176-c-k-c0x00ffffff-no-rj-mo" alt="Zakariya Ansari">
+    <img src="https://yt3.googleusercontent.com/lJ4KXi9Wt8DChJ763VSS-N-cgn_BhjQqSCXaeLJh2LqgGct3xmsfJdLUr0sN63WYMHetyakY6CA=s176-c-k-c0x00ffffff-no-rj-mo" alt="Zakariya Ansari" id="img1">
 
   <ul>
       <li><i class="fas fa-user"></i> <strong>Name:</strong> Zakariya Ansari</li>
