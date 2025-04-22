@@ -127,6 +127,6 @@
    <h3>More Pics</h3>
     <img src="https://yt3.ggpht.com/vRv5Ynq_8ArIpxqqwQ5pmv4SGn1EooyuuduMYGNqrNHEaYj61Yd37xzpZDo0-gFkPiUlyy_S-qjCzcY=s720-c-fcrop64=1,00003800ffffc7ff-rw-nd-v1" alt="More Pic 1">
     <img src="https://yt3.ggpht.com/nNOaOdUxUXOJ--PeqJH6Zff1RKCd3XQNPkj_Hf3znJ6fgnK-nkyQGJTtCNyl9-M4vxYWZCm7qAexow=s720-c-fcrop64=1,00003800ffffc7ff-rw-nd-v1" alt="More Pic 2">
-   <audio src="abcdef.mp3" autoplay loop>
+  
    </body>
 </html>
