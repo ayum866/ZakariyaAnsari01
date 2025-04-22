@@ -1,6 +1,11 @@
 # ZakariyaAnsari01
 <html>
   <head>
+    <style>
+      img{
+        size:100%;
+      }
+    </style>
     <title>Zakariya. Ansari. 01</title>
   </head>
   <body>
