@@ -19,13 +19,6 @@
         to { opacity: 1; transform: translateY(0); }
       }
 
-  h1 {
-        font-size: 2.8em;
-        margin-bottom: 20px;
-        color: #2c3e50;
-        text-shadow: 3px 3px #d1d1d1;
-        animation: glow 2s infinite alternate;
-      }
 
   @keyframes glow {
         from { text-shadow: 0 0 10px #b39ddb; }
@@ -122,7 +115,6 @@
     </style>
   </head>
   <body>
-    <h1>Zakariya Ansari 01</h1>
     <img src="https://yt3.googleusercontent.com/lJ4KXi9Wt8DChJ763VSS-N-cgn_BhjQqSCXaeLJh2LqgGct3xmsfJdLUr0sN63WYMHetyakY6CA=s176-c-k-c0x00ffffff-no-rj-mo" alt="Zakariya Ansari" id="img1">
 
   <ul>
